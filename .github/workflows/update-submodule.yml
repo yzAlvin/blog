@@ -2,7 +2,7 @@ name: Send submodule updates to parent repo
 
 on:
   push:
-    branches: 
+    branches:
       - main
 
 jobs:
@@ -11,8 +11,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with: 
-          repository: yzAlvin/ yzalvin.github.io
+        with:
+          repository: yzAlvin/yzalvin.github.io
           token: ${{ secrets.PRIVATE_TOKEN_GITHUB }}
 
       - name: Pull & update submodules recursively
