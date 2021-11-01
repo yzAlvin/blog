@@ -1,1 +1,7 @@
+---
+slug: one
+---
+
+# One
+
 one
