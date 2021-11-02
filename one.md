@@ -1,7 +1,0 @@
----
-slug: one
----
-
-# One
-
-one
