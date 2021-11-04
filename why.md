@@ -8,4 +8,4 @@ I've stumbled across many tech blogs, and always found it interesting to read ab
 
 Hopefully by writing these I am able to convey my thoughts clearer, and get better at explaining things. It might also be a great place for me solidify my knowledge, by writing it down and having something to refer to.
 
-This place will probably become a dumping ground for whatever I want, but I'm hopeful someone will glean something a post.
+This place will probably become a dumping ground for whatever I want, but I'm hopeful someone will glean something from a post. I'll pretend this space is like CreedThoughts or Bob Loblaw's Law Blog 🤪.
