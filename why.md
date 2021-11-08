@@ -2,6 +2,7 @@
 slug: why-blog
 title: Why blog
 date: 2021-03-01
+blurb: "I read a lot of tech blogs and articles. I wanted to start my own for fun."
 ---
 
 I've stumbled across many tech blogs, and always found it interesting to read about someone's opinions/experiences. I was particularly amazed by [Project Nayuki](https://nayuki.io). I was already writing my notes in Markdown, and after attending a technical writing bootcamp I figure I could try my own.

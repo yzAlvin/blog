@@ -2,6 +2,7 @@
 slug: scraping-with-colly
 title: Scraping in Go with Colly
 date: 2021-10-01
+blurb: "Scraping Codewars with the Colly framework in Go."
 ---
 
 I wanted to look back at all my [Codewars](https://www.codewars.com/) solutions, and perhaps create some kind of portfolio frontend for it, so I had a look at the [Codewars API](https://dev.codewars.com/). Unfortunately there was no endpoint to get the actual solution code, so I decided to try scrape it.

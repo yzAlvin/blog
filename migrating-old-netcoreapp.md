@@ -2,6 +2,7 @@
 slug: migrating-old-netcoreapp
 title: Migrating a Webapp from netcoreapp2.1
 date: 2021-10-14
+blurb: "Migrating .NET projects is not too bad!"
 ---
 
 Recently, we had an important API service suddenly stop working at work.

@@ -2,6 +2,7 @@
 slug: easy-csv-parsing-with-go
 title: Transforming csv Files Easily with Go
 date: 2021-11-04
+blurb: "Building a file transformer in Go."
 ---
 
 I wanted to convert a csv file to Markdown. Like my previous post about web scraping, I'd done it before in Python and it was trivial, so I decided to try it with Go.

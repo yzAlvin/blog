@@ -2,6 +2,7 @@
 slug: my-first-github-action
 title: My First Github Action
 date: 2021-11-03
+blurb: "My experience building a Github action."
 ---
 
 Recently I wrote a simple nodejs script to parse YAML front matter in Markdown files, and convert them into JSON. In the spirit of automation, I wanted to find a way to automate running the script.

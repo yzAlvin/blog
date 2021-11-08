@@ -2,6 +2,7 @@
 slug: websites-outside-of-work
 title: "Websites Outside of Work"
 date: 2021-11-01
+blurb: "Reminiscing about websites I have built."
 ---
 
 I recently started to rebuild my website with SvelteKit, and felt nostalgic about  websites I had built earlier.

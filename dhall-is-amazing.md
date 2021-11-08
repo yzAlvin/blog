@@ -2,6 +2,7 @@
 slug: dhall-is-amazing
 title: Dhall is Amazing
 date: 2021-08-25
+blurb: "Dhall is a programmable configuration language that you can think of as: JSON + functions + types + imports."
 ---
 
 Dhall is a programmable configuration language that you can think of as: JSON + functions + types + imports.
